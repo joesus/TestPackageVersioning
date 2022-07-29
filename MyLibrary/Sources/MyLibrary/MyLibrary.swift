@@ -11,6 +11,7 @@ public struct MyLibrary {
     public var eight = 8
     public var nine = 9
     public var ten = 10
+    public var eleven = 11
 
     public init() {
     }
