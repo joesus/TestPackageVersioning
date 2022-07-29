@@ -9,7 +9,7 @@ public struct MyLibrary {
     public var six = 6
     public var seven = 7
     public var eight = 8
-
+    public var nine = 9
 
     public init() {
     }
