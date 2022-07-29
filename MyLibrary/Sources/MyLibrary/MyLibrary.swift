@@ -12,6 +12,7 @@ public struct MyLibrary {
     public var nine = 9
     public var ten = 10
     public var eleven = 11
+    public var twelve = 12
 
     public init() {
     }
