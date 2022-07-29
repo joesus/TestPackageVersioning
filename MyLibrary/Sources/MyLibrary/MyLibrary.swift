@@ -6,6 +6,7 @@ public struct MyLibrary {
     public var three = 3
     public var four = 4
     public var five = 5
+    public var six = 6
 
     public init() {
     }
