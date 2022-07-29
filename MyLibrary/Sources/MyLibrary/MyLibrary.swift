@@ -3,6 +3,7 @@ public struct MyLibrary {
 
     public var one = 1
     public var two = 2
+    public var three = 3
 
     public init() {
     }
