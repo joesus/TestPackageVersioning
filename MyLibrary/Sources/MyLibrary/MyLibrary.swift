@@ -8,6 +8,8 @@ public struct MyLibrary {
     public var five = 5
     public var six = 6
     public var seven = 7
+    public var eight = 8
+
 
     public init() {
     }
